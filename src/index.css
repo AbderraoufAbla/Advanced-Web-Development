@@ -1,0 +1,18 @@
+.card {
+  margin-bottom: 1rem;
+}
+
+.error {
+  border-color: #b71c1c;
+  background-color: #ffcdd2;
+  color: #b71c1c;
+}
+
+.button.error {
+  background-color: #f44336;
+  border-color: #d32f2f;
+}
+
+.button.error:hover {
+  background-color: #d32f2f;
+}
