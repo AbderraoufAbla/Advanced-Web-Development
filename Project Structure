@@ -1,0 +1,12 @@
+src/
+  components/
+    CreatorCard.jsx
+    CreatorForm.jsx
+  pages/
+    ShowCreators.jsx
+    ViewCreator.jsx
+    EditCreator.jsx
+    AddCreator.jsx
+  App.jsx
+  client.js
+  main.jsx
